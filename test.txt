@@ -13,5 +13,5 @@ hello king!hello git!12
 hello king!hello git!13
 hello king!hello git!14
 hello king!hello git!15 master test
-hello king!hello git!16
+hello king!hello git!16 hot-fix test
 版本2 分支
